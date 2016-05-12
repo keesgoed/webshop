@@ -1,0 +1,9 @@
+html, body{
+    font-family:calibri !important;
+}
+.navbar_item{
+    width:150px;
+}
+.title_page{
+    margin-left:45px;
+}
